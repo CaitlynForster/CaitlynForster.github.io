@@ -14,8 +14,8 @@ author: Tom White
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
   Publications: "publications"
+  Blog: "blog"
 
 # --- Logo --- #
 
