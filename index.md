@@ -1,9 +1,7 @@
 ---
 layout: page
-subtitle: Some deets
-title: About me
+subtitle: My name?
+title: Welcome!
 ---
 
-I'm a human, interested in all sorts of thigns.
-
-etc. etc. etc.
+I'm blank, a blank at blank university. Take a look at my research and stuff or whatever.
