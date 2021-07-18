@@ -37,9 +37,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
- github: thomased
- ORCID: your ORCID ID
- google-scholar: your google scholar
+  github: thomased
+  ORCID: your ORCID ID
+  google-scholar: your google scholar
 # facebook: deanattali
 # twitter: daattali
 # patreon: DeanAttali
