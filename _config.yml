@@ -37,8 +37,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
+ github: thomased
+ ORCID: your ORCID ID
+ google-scholar: your google scholar
 # facebook: deanattali
-# github: daattali
 # twitter: daattali
 # patreon: DeanAttali
 # youtube: c/daattali
@@ -57,12 +59,10 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-# rss-description: This website is a virtual proof that I'm awesome
+# rss-description: RSS link
 
 # --- General options --- #
 
