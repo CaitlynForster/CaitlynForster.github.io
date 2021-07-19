@@ -6,15 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: Your name
+title: Caitlyn Forster
 
 # Your name to show in the footer
-author: Your name
+author: Caitlyn Forster
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   Publications: "publications"
+  CV: "CV"
+  Science Craft: craft
+  Media: media
+  Teaching: teaching
   Blog: "blog"
 
 # --- Logo --- #
