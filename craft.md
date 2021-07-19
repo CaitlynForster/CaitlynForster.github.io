@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Publications
+title: Science Craft
 ---
 
 <div class="text-center">
-  <h1>Science crafts</h1>
   I have a range of crafty hobbies, including sewing, and embroidery. Sometimes I use these hobbies for Science.
   <br/>
 
