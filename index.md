@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Welcome!
-subtitle: My name?
+title: Caitlyn Forster
+subtitle: PhD Candidate, The University of Sydney
 ---
 
-I'm blank, a blank at blank university. Take a look at my research and stuff or whatever.
 
