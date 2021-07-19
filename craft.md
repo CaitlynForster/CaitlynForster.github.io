@@ -9,5 +9,6 @@ title: Science meets Craft
 
   
   <h2> Bat Net <h2>
+  <br/> I designed and sewed a vinyl net with a detachable bag for collecting bats from bat boxes
   <img src="{{ 'assets/img/batnet.jpg' | relative_url }}"/>
 
