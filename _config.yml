@@ -20,7 +20,7 @@ navbar-links:
   Teaching: teaching
   Designs: "printcut"
   Craft: craft
-  Blog: "blog"
+  #Blog: "blog"
   
 
 # --- Logo --- #
