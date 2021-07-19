@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Science Craft
+title: Science meets Craft
 ---
 
 <div class="text-center">
