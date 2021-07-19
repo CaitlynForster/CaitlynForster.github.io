@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Publications
+layout:  page
+title:  Publications
 ---
 
 Person et al. (2021) Make-believe paper. _A journal_ 1:100-105.
