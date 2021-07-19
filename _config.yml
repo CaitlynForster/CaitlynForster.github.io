@@ -14,12 +14,12 @@ author: Caitlyn Forster
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Publications: "publications"
-  CV: "CV"
-  Designs: "printcut"
-  Craft: craft
+  #Publications: "publications"
+  #CV: "CV"
   Media: media
   Teaching: teaching
+  Designs: "printcut"
+  Craft: craft
   Blog: "blog"
   
 
