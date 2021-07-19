@@ -10,4 +10,4 @@ title: Science meets Craft
   
   <h2> Bat Net <h2>
   <img src="{{ 'assets/img/batnet.jpg' | relative_url }}"/>
-</div>
+
