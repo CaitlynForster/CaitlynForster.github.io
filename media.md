@@ -35,6 +35,8 @@ Caterpillars on the menu: How to use plasticine caterpillars to test ecological 
 
 &nbsp;&nbsp;&nbsp;_'If I was Norman May I'd say the interview was Gold, Gold, Gold! That was so great please have her back'_
 
+2021 - Regional Western Australia, Insect Olympics
+
 
 2021 - Darwin, Comics as educational tools
 
