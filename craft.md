@@ -8,7 +8,7 @@ I have a range of crafty hobbies, including sewing, and embroidery. Sometimes I 
 <br/>
 <br/> 
 <br/> 
-<h2>Bat Net</h2>
+<h2>Plush velvetworm</h2>
 <br/> 
 <img src="{{ 'assets/img/velvetplush.jpg' | relative_url }}"/>
 I designed and sewed this velvetworm plush. Leaf insect for scale
