@@ -28,7 +28,7 @@ How do Olympic athletes stack up against invertebrates? Not very well  [_Read_](
 
 Caterpillars on the menu: How to use plasticine caterpillars to test ecological questions[_Read_](https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/professional-learning/scan/media/documents/vol-40/Scan_40-2_March2021_AEM.pdf)
 
-**ABC interviews**
+**ABC Radio interviews**
 
 
 2021 - Sydney, Olympians versus invertebrates. NSW Statewide broadcast
@@ -52,3 +52,16 @@ Caterpillars on the menu: How to use plasticine caterpillars to test ecological 
 
 2020 - Central West, Backyard Science activities
 
+
+**2SER Radio interviews**
+
+
+2021 - Educational Comics
+
+2021 - Covid-19 detecting bees
+
+**TripleRRR Radio interviews**
+
+2020 - 20 minutes 20 Phds
+
+2021 - Impact of floods on insects
