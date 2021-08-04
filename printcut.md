@@ -1,9 +1,7 @@
-
 ---
 layout: page
-title: 3D Printing and paper cutting designs
+title: Designs
 ---
-
 For previous experiments I have utilised 3D Printing and Cricut software to design reproducible artificial experimental environments.
 
 **[3D Printed Flowers](https://www.tinkercad.com/things/bEwJQxgqlQf)**
