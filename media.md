@@ -68,6 +68,10 @@ Caterpillars on the menu: How to use plasticine caterpillars to test ecological 
 
 
 **Videos**
-2020 - What Animals are in your backyard? [Watch](https://www.youtube.com/watch?v=umb-HhUAjJk&feature=youtu.be)
+2020 - What Animals are in your backyard?
+
+
+[![Educational video to find out what animals live in your backyard using plasticine caterpillars](http://img.youtube.com/vi/umb-HhUAjJk/0.jpg)](http://www.youtube.com/watch?v=umb-HhUAjJk)
+
 
 
