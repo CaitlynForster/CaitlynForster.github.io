@@ -3,6 +3,9 @@ layout: page
 title: CV
 ---
 
+![](/assets/img/ESA2019.jpg)
+_Presenting at the Ecological Society of Australia Conference in 2019_
+
 **Awards and grants**
 
 __2019__ HDR Showcase Highly commended student talk
@@ -20,7 +23,8 @@ __2021__ PRSS **$1212**
 __2021__ Australasian Society for the Study of Animal Behaviour student grant **$2500**
 
 
-
+![](/assets/img/ESA2020.jpg)
+_2020 has turned conferences into a virtual affair, here is me watching me present a talk at The Ecological Society of Australia Conference_
 
 
 **Conference Presentations**
@@ -48,6 +52,7 @@ _Behavioural adaptations to Ecolgical challenges_ Symposium chair
 __2020__ Australasian Soceity for the Study of Animal Behaviour Conference, Virtual
 _The impact of Phantom Decoys on bumblebee foraging behaviour_ Presentation, **Runner up best student talk**
 
+![](/assets/img/ESA2018.jpg)
 
 **Society Affiliations**
 
