@@ -11,7 +11,7 @@ I have over 100 000 reads on articles written in the Conversation. I have writte
 
 <img src="{{ 'assets/img/naturedetectives.png' | relative_url }}"/>
 
-[_Read_](https://theconversation.com/nature-detectives-in-the-backyard-3-science-activities-for-curious-kids-this-summer-151661)
+[<img src="{{ 'assets/img/naturedetectives.png' | relative_url }}"/>](https://theconversation.com/nature-detectives-in-the-backyard-3-science-activities-for-curious-kids-this-summer-151661)
 
 <img src="{{ 'assets/img/beeswarms.png' | relative_url }}"/>
 
