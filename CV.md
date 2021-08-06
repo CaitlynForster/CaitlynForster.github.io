@@ -9,15 +9,15 @@ __2019__ HDR Showcase Highly commended student talk
 
 __2020__ Australasian Society for the study of Animal Behaviour best student talk - Runner up
 
-__2019__ PRSS $2600
+__2019__ PRSS **$2600**
 
-__2019__ Ecological Society of Australia student travel grant $150
+__2019__ Ecological Society of Australia student travel grant **$150**
 
-__2020__ PRSS $450
+__2020__ PRSS **$450**
 
-__2021__ PRSS $1212
+__2021__ PRSS **$1212**
 
-__2021__ Australasian Spciety for the Study of Animal Behaviour student grant $2500
+__2021__ Australasian Society for the Study of Animal Behaviour student grant **$2500**
 
 
 
