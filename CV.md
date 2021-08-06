@@ -38,13 +38,13 @@ _Effect of structural complexity on Ant foraging behaviour_ Presentation
 __2018__ Ecological Society of Australia Conference, Brisbane, QLD Australia
 
 _How does structural complexity impact ant foraging choice?_ Poster and presentation
-[view poster]({{caitlynforster.githiub.io}}/doc/esa2018.pdf)
+[view poster]({{caitlynforster.githiub.io}}assets/doc/esa2018.pdf)
 
 
 __2019__ Ecological Society of Australia Conference, Launceston, QLD Australia
 
 _A Rose by any other name: Use of artificial flowers in ecological experiments_ Poster and Presentation
-[view poster]({{caitlynforster.githiub.io}}/doc/ESA2019.png)
+[view poster]({{caitlynforster.githiub.io}}assets/doc/ESA2019.png)
 
 
 __2020__ Ecological Society of Auystralia Conference, Virtual
