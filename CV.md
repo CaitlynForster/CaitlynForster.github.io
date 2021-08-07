@@ -8,7 +8,7 @@ PhD, The University of Sydney. Expected completion: 2022.
 Thesis title: _Understanding consumer beehaviour: impacts of the Phantom Decoy Effect on Bee foraging choice
 Supervisors: Tanya Latty, Dieter Hochuli, Thomas White and Rose Gloag
 
-**Previous Education**_
+**Previous Education**
 MPhil, The University of Sydney. Completed 2018
 Thesis title: _Assessing the role of structural complexity on ant foraging choice_
 Supervisors: Tanya Latty and Dieter Hochuli
