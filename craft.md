@@ -8,6 +8,13 @@ I have a range of crafty hobbies, including sewing, and embroidery. Sometimes I 
 <br/>
 <br/> 
 <br/> 
+<h2>Plush golden orb weaver spider</h2>
+<br/> 
+<img src="{{ 'assets/img/spiderplush.jpg' | relative_url }}"/>
+I designed and sewed this golden orb weaver plush
+<br/>
+<br/> 
+<br/> 
 <h2>Plush velvetworm</h2>
 <br/> 
 <img src="{{ 'assets/img/velvetplush.jpg' | relative_url }}"/>
