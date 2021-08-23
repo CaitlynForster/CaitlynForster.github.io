@@ -1,2 +1,0 @@
-$ mkdir -p _plugins && cd _plugins
-$ wget https://raw.githubusercontent.com/rob-murray/jekyll-twitter-plugin/master/lib/jekyll-twitter-plugin.rb
