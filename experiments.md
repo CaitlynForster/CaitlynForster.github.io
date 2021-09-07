@@ -1,6 +1,7 @@
 
-So you've found a sign floaing around!
+So you've found a sign floating around!
 Currently we're trying to see if there is an impact of the addition of a high quality flower on the flowers nearby
+![](/assets/img/artificial_flowers.jpg)
 
 **FAQ**
 
