@@ -27,15 +27,28 @@ I have over 100 000 reads on articles written in the Conversation. I have writte
 [<img src="{{ 'assets/img/olymmpicsrelative_url }}"/>](https://theconversation.com/how-do-olympic-athletes-stack-up-against-invertebrates-not-very-well-164488)
 
 
+
+
 **Scan, Department Education NSW**
 
 
 
 [<img src="{{ 'assets/img/caterpillars.png' | relative_url }}"/>](https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/professional-learning/scan/media/documents/vol-40/Scan_40-2_March2021_AEM.pdf)
 
+
+**Videos**
+2020 - What Animals are in your backyard?
+
+
+[![Educational video to find out what animals live in your backyard using plasticine caterpillars](http://img.youtube.com/vi/umb-HhUAjJk/0.jpg)](http://www.youtube.com/watch?v=umb-HhUAjJk)
+
+
+
 **ABC Radio interviews**
 
-23 Aug 2021 - Sydney, Insects to visit in Lockdown. NSW Statewide broadcast
+9 September - Sydney, stingless bees and honey, NSW Statewide broadcast
+
+23 August 2021 - Sydney, Insects to visit in Lockdown. NSW Statewide broadcast
 
 
 2021 - Sydney, Olympians versus invertebrates. NSW Statewide broadcast
@@ -73,12 +86,6 @@ I have over 100 000 reads on articles written in the Conversation. I have writte
 
 2021 - Impact of floods on insects
 
-
-**Videos**
-2020 - What Animals are in your backyard?
-
-
-[![Educational video to find out what animals live in your backyard using plasticine caterpillars](http://img.youtube.com/vi/umb-HhUAjJk/0.jpg)](http://www.youtube.com/watch?v=umb-HhUAjJk)
 
 
 
