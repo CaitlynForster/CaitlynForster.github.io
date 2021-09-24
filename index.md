@@ -7,4 +7,4 @@ subtitle: PhD Candidate, The University of Sydney
 <p align="center"> I am a PhD candidate at the University of Sydney. My research focus is on combining work from behavioural economics and behavioural ecology to understand how insects pick flowers. I am also interested in using 3D printing and tabletop craft machines to make effective and reproducible experimental design. I like to use my skills in Science communication to encourage backyard science experiments that help students understand their local ecosystems.
 
 
-<a class="twitter-timeline" href="https://twitter.com/BambiraptorF?ref_src=twsrc%5Etfw">Tweets by BambiraptorF</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-5"></script>
+<a class="twitter-timeline" data-width="500" data-height="300" href="https://twitter.com/BambiraptorF?ref_src=twsrc%5Etfw">Tweets by BambiraptorF</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
