@@ -31,7 +31,7 @@ I have over 100 000 reads on articles written in the Conversation. I have writte
 
 **Scan, Department Education NSW**
 
-[<img src="{{ 'assets/img/scan_stingless.jpeg' | relative_url }}"/>](https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/professional-learning/scan/media/documents/vol-40/Scan_40-8_September2021_AEM.pdf)
+[<img src="{{ 'assets/img/scan_stingless.jpg' | relative_url }}"/>](https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/professional-learning/scan/media/documents/vol-40/Scan_40-8_September2021_AEM.pdf)
 
 [<img src="{{ 'assets/img/caterpillars.png' | relative_url }}"/>](https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/professional-learning/scan/media/documents/vol-40/Scan_40-2_March2021_AEM.pdf)
 
