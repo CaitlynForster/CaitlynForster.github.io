@@ -3,9 +3,11 @@ layout: page
 title: Science in the media
 ---
 
+I really enjoy writing about Ecology and entomology, and frequently written for The Department of Educations' Scan Magazine, The Conversation and have been involved in educational videos, radio interviews and podcast recordings. I have over 100 000 reads on articles written in the Conversation, and have written a mixture of pitched and commissioned articles on a range of topics from bee swarms to TikTok and the Olympics to Floods.
+
 **The Conversation**
 
-I have over 100 000 reads on articles written in the Conversation. I have written a mixture of pitched and commissioned articles on a range of topics from bee swarms to TikTok and the Olympics to Floods.
+
 
 
 [<img src="{{ 'assets/img/naturedetectives.png' | relative_url }}"/>](https://theconversation.com/nature-detectives-in-the-backyard-3-science-activities-for-curious-kids-this-summer-151661)
