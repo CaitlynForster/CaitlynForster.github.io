@@ -3,9 +3,12 @@ layout: page
 title: Science in the media
 ---
 
-**The Conversation**
+I really enjoy writing about Ecology and entomology, and frequently written for The Department of Educations' [Scan Magazine](#scan-magazine), [The Conversation](#the-conversation) and have been involved in [educational videos](#video), [radio interviews](#radio) and podcast recordings. I have over 100 000 reads on articles written in the Conversation, and have written a mixture of pitched and commissioned articles on a range of topics from bee swarms to TikTok and the Olympics to Floods.
 
-I have over 100 000 reads on articles written in the Conversation. I have written a mixture of pitched and commissioned articles on a range of topics from bee swarms to TikTok and the Olympics to Floods.
+
+<h4 id="the-conversation">
+The Conversation
+</h4>
 
 
 [<img src="{{ 'assets/img/naturedetectives.png' | relative_url }}"/>](https://theconversation.com/nature-detectives-in-the-backyard-3-science-activities-for-curious-kids-this-summer-151661)
@@ -28,8 +31,10 @@ I have over 100 000 reads on articles written in the Conversation. I have writte
 
 
 
+<h4 id="scan-magazine">
+Scan Magazine, Department Education NSW
+</h4>
 
-**Scan, Department Education NSW**
 
 
 [<img src="{{ 'assets/img/science_extension.png' | relative_url }}"/>](https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/professional-learning/scan/media/documents/vol-40/Scan_40-9_Oct2021_AEM.pdf)
@@ -39,12 +44,19 @@ I have over 100 000 reads on articles written in the Conversation. I have writte
 [<img src="{{ 'assets/img/caterpillars.png' | relative_url }}"/>](https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/professional-learning/scan/media/documents/vol-40/Scan_40-2_March2021_AEM.pdf)
 
 
-**Videos**
+<h4 id="video">
+Educatioinal Videos
+</h4>
+
 2020 - What Animals are in your backyard?
 
 
 [![Educational video to find out what animals live in your backyard using plasticine caterpillars](http://img.youtube.com/vi/umb-HhUAjJk/0.jpg)](http://www.youtube.com/watch?v=umb-HhUAjJk)
 
+
+<h4 id="radio">
+Radio interviews
+</h4>
 
 
 **ABC Radio interviews**
