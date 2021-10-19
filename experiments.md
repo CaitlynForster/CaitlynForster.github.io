@@ -1,7 +1,9 @@
 
+**Current experiments**
+![](/assets/img/artificial_flowers.png)
+
 So you've found some artificial flowers floating around!
 Currently we're trying to see look at floral preferences of floral visitors
-![](/assets/img/artificial_flowers.png)
 
 **FAQ**
 
