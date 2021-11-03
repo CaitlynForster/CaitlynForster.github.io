@@ -45,7 +45,7 @@ Scan Magazine, Department Education NSW
 
 
 <h4 id="video">
-Educatioinal Videos
+Educational Videos
 </h4>
 
 2020 - What Animals are in your backyard?
@@ -60,6 +60,8 @@ Radio interviews
 
 
 **ABC Radio interviews**
+
+3 November 2021 - Sydney, Parasitoid wasps
 
 9 September - Sydney, stingless bees and honey, NSW Statewide broadcast
 
