@@ -55,7 +55,7 @@ Educational Videos
 2020 - What Animals are in your backyard?
 
 
-[![Educational video to find out what animals live in your backyard using plasticine caterpillars]('assets/img/innerwest.png')](http://www.youtube.com/watch?v=umb-HhUAjJk)
+[![Educational video to find out what animals live in your backyard using plasticine caterpillars]('assets/img/caterpillars.png')](http://www.youtube.com/watch?v=umb-HhUAjJk)
 
 
 <h4 id="radio">
