@@ -27,7 +27,7 @@ The Conversation
 [<img src="{{ 'assets/img/tiktok.png' | relative_url }}"/>](https://theconversation.com/over-the-top-backlash-against-tiktoks-bee-lady-not-justified-say-bee-experts-162346)
 
 
-[<img src="{{ 'assets/img/olymmpics.png | relative_url }}"/>](https://theconversation.com/how-do-olympic-athletes-stack-up-against-invertebrates-not-very-well-164488)
+[<img src="{{ 'assets/img/olympics.png | relative_url }}"/>](https://theconversation.com/how-do-olympic-athletes-stack-up-against-invertebrates-not-very-well-164488)
 
 
 
