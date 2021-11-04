@@ -43,6 +43,18 @@ Scan Magazine, Department Education NSW
 
 [<img src="{{ 'assets/img/caterpillars.png' | relative_url }}"/>](https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/professional-learning/scan/media/documents/vol-40/Scan_40-2_March2021_AEM.pdf)
 
+<h4 id="podcast">
+Podcasts
+</h4>  
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/watch?v=S2c46jusF-w"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
 
 <h4 id="video">
 Educational Videos
