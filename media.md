@@ -46,7 +46,7 @@ Scan Magazine, Department Education NSW
 <h4 id="podcast">
 Podcasts
 </h4>  
-[![Podcast chatting about the pollinators of the Inner West in Sydney](http://img.youtube.com/vi/umb-HhUAjJk/0.jpg)](https://www.youtube.com/watch?v=S2c46jusF-w)
+[![Podcast chatting about the pollinators of the Inner West in Sydney]('assets/img/innerwest.png' )](https://www.youtube.com/watch?v=S2c46jusF-w)
 
 <h4 id="video">
 Educational Videos
