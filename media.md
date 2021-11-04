@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Science in the media
+
+youtubeId: https://youtu.be/S2c46jusF-w
 ---
 
 I really enjoy writing about Ecology and entomology, and frequently written for The Department of Educations' [Scan Magazine](#scan-magazine), [The Conversation](#the-conversation) and have been involved in [educational videos](#video), [radio interviews](#radio) and podcast recordings. I have over 100 000 reads on articles written in the Conversation, and have written a mixture of pitched and commissioned articles on a range of topics from bee swarms to TikTok and the Olympics to Floods.
@@ -46,15 +48,7 @@ Scan Magazine, Department Education NSW
 <h4 id="podcast">
 Podcasts
 </h4>  
-<div class="embed-container">
-  <iframe
-      src="https://www.youtube.com/watch?v=S2c46jusF-w"
-      width="700"
-      height="480"
-      frameborder="0"
-      allowfullscreen="">
-  </iframe>
-</div>
+{% include youtubePlayer.html id=page.youtubeId %}
 
 <h4 id="video">
 Educational Videos
