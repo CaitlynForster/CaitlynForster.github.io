@@ -66,6 +66,9 @@ Radio interviews
 
 **ABC Radio interviews**
 
+8th January 2022 - Sydney, Bugs that bite
+
+
 3 November 2021 - Sydney, Parasitoid wasps
 
 9 September - Sydney, stingless bees and honey, NSW Statewide broadcast
