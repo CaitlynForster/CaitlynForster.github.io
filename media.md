@@ -27,7 +27,7 @@ The Conversation
 [<img src="{{ 'assets/img/tiktok.png' | relative_url }}"/>](https://theconversation.com/over-the-top-backlash-against-tiktoks-bee-lady-not-justified-say-bee-experts-162346)
 
 
-[<img src="{{ 'assets/img/olymmpicsrelative_url }}"/>](https://theconversation.com/how-do-olympic-athletes-stack-up-against-invertebrates-not-very-well-164488)
+[<img src="{{ 'assets/img/olympics.png' | relative_url }}"/>](https://theconversation.com/how-do-olympic-athletes-stack-up-against-invertebrates-not-very-well-164488)
 
 
 
@@ -43,15 +43,20 @@ Scan Magazine, Department Education NSW
 
 [<img src="{{ 'assets/img/caterpillars.png' | relative_url }}"/>](https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/professional-learning/scan/media/documents/vol-40/Scan_40-2_March2021_AEM.pdf)
 
+<h4 id="podcast">
+Podcasts
+</h4>  
 
+
+[![Podcast chat about Inner West Pollinators](https://img.youtube.com/vi/S2c46jusF-w/0.jpg)](http://www.youtube.com/watch?v=S2c46jusF-w)
 <h4 id="video">
-Educatioinal Videos
+Educational Videos
 </h4>
 
 2020 - What Animals are in your backyard?
 
 
-[![Educational video to find out what animals live in your backyard using plasticine caterpillars](http://img.youtube.com/vi/umb-HhUAjJk/0.jpg)](http://www.youtube.com/watch?v=umb-HhUAjJk)
+[![Educational video to find out what animals live in your backyard using plasticine caterpillars](https://img.youtube.com/vi/umb-HhUAjJk/0.jpg)](http://www.youtube.com/watch?v=umb-HhUAjJk)
 
 
 <h4 id="radio">
@@ -60,6 +65,11 @@ Radio interviews
 
 
 **ABC Radio interviews**
+
+8th January 2022 - Sydney, Bugs that bite
+
+
+3 November 2021 - Sydney, Parasitoid wasps
 
 9 September - Sydney, stingless bees and honey, NSW Statewide broadcast
 
