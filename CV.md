@@ -84,8 +84,7 @@ _The impact of Phantom Decoys on bumblebee foraging behaviour_ Presentation, **R
 
 __2020__ Ecological Society of Auystralia Conference, Virtual 
 _The impact of Phantom Decoys on honeybee foraging behaviour_ Poster
-[view poster]({{caitlynforster.githiub.io}}/assets/img/esa2021poster.png)
-
+![](/assets/img/esa2021poster.png)
 
 **Society Affiliations**
 
