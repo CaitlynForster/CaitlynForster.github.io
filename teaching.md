@@ -9,7 +9,7 @@ I have taught as a demonstrator, supervisor and guest lecturer at The University
 **Units Taught**
 
 _Animals and Us_
-<br>This is a first year unit aimed at understanding the complex relationship between humans and animals from cultural, economical and ecological perspectives. I taught this unit at a supervisory capacity and have been involved in course development and wrote and presented a guest lecture for this unit.
+<br>This is a first year unit aimed at understanding the complex relationship between humans and animals from cultural, economical and ecological perspectives. I taught this unit at a supervisory capacity and have been involved in course development and wrote and presented 2 guest lectures for this unit. One was on entomophagy, the other on how popular culture can influence peoples' perceptions of invertebrates.
 
 _From Molecules to Ecosystems, The University of Sydney (2019-2021)_
 <br>This is a first year unit aimed at teaching students a range of skills from molecular biology to ecology. I taught this unit as a demonstrator and have marked exams and assessments
