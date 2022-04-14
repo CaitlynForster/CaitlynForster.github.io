@@ -11,4 +11,3 @@ subtitle: PhD Candidate, The University of Sydney
   
   
 
-  <a class="twitter-timeline" data-width="500" data-height="200" href="https://twitter.com/BambiraptorF?ref_src=twsrc%5Etfw">Tweets by BambiraptorF</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
