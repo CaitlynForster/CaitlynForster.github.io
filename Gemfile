@@ -1,13 +1,11 @@
 # frozen_string_literal: true
+source 'https://rubygems.org'
 
-source "https://rubygems.org"
+# will install all gh-pages allowed gems
+# see : https://pages.github.com/versions/
+gem 'github-pages'
 
-gemspec
-source "https://rubygems.org"
-ruby RUBY_VERSION
-gem "jekyll", "~> 3.8.5"
-gem "minima", "~> 2.5", ">= 2.5.1"
-group :jekyll_plugins do
-gem "jekyll-feed", "~> 0.6"
-gem "jekyll-paginate", "~> 1.1"
-end
+# comment out all other gems
+# gem 'jekyll'
+# gem 'jekyll-feed'
+# gem ...
