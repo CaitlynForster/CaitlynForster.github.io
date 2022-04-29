@@ -29,6 +29,7 @@ The Conversation
 
 [<img src="{{ 'assets/img/olympics.png' | relative_url }}"/>](https://theconversation.com/how-do-olympic-athletes-stack-up-against-invertebrates-not-very-well-164488)
 
+[<img src="{{ 'assets/img/coin.png' | relative_url }}"/>](https://theconversation.com/a-new-2-coin-features-the-introduced-honeybee-is-this-really-the-species-we-should-celebrate-181089)
 
 
 <h4 id="scan-magazine">
