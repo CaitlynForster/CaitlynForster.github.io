@@ -50,6 +50,8 @@ __2021__ PRSS **$1212**
 
 __2021__ Australasian Society for the Study of Animal Behaviour student grant **$2500**
 
+__2022__ Inspiring Australia Science Week Grants **$4800**
+
 
 ![](/assets/img/ESA2020.jpg)
 _2020 has turned conferences into a virtual affair, here is me watching me present a talk at The Ecological Society of Australia Conference_
