@@ -97,4 +97,4 @@ Australasian Society for the Study of Animal Behaviour - Board member - Student 
 Ecological Society of Australia - Social committee
 
 
-Ecologcial Society of Australia - Entomological Fashion judge
+Ecological Society of Australia - Ecological Fashion judge
