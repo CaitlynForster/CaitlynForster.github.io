@@ -79,7 +79,7 @@ _A Rose by any other name: Use of artificial flowers in ecological experiments_ 
 
 __2020__ Ecological Society of Auystralia Conference, Virtual
 _The impact of Phantom Decoys on bumblebee foraging behaviour_ Presentation
-_Behavioural adaptations to Ecolgical challenges_ Symposium chair
+_Behavioural adaptations to Ecological challenges_ Symposium chair
 
 __2020__ Australasian Soceity for the Study of Animal Behaviour Conference, Virtual
 _The impact of Phantom Decoys on bumblebee foraging behaviour_ Presentation, **Runner up best student talk**
