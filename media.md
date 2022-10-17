@@ -66,7 +66,7 @@ Radio interviews
 
 
 **ABC Radio interviews**
-
+18th October 2022 - Sydney, Termites, Cockroaches and floods
 
 5th April 2022 - Sydney, Millipedes and floods
 
