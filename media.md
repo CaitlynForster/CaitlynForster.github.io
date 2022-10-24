@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Science in the media
+title: MEdia and Outreach
 ---
 
 I really enjoy writing about Ecology and entomology, and frequently written for The Department of Educations' [Scan Magazine](#scan-magazine), [The Conversation](#the-conversation) and have been involved in [educational videos](#video), [radio interviews](#radio) and podcast recordings. I have over 100 000 reads on articles written in the Conversation, and have written a mixture of pitched and commissioned articles on a range of topics from bee swarms to TikTok and the Olympics to Floods.
@@ -64,6 +64,8 @@ Educational Videos
 Radio interviews
 </h4>
 
+**Nearby Nature**
+One of my great joys, is getting people outside in nature. In collaboration with The Urban Field Naturalist and headspace Bankstown, we create walkshops to encourage people to get outside and do some citizen science
 
 **ABC Radio interviews**
 18th October 2022 - Sydney, Termites, Cockroaches and floods
@@ -117,5 +119,10 @@ Radio interviews
 2021 - Impact of floods on insects
 
 
+**Council talks**
+
+2019 Turramurra Community Garden - Bees in your garden (Approx 20 people)
+
+2022 Parramatta Council - Bee Beahviour (Approx 20 people)
 
 
