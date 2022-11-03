@@ -68,6 +68,10 @@ Radio interviews
 One of my great joys, is getting people outside in nature. In collaboration with The Urban Field Naturalist and headspace Bankstown, we create walkshops to encourage people to get outside and do some citizen science
 
 **ABC Radio interviews**
+
+
+3rd November 2022 - Adelaid, Ask an expert - Why are ants out before it rains
+
 18th October 2022 - Sydney, Termites, Cockroaches and floods
 
 5th April 2022 - Sydney, Millipedes and floods
@@ -75,11 +79,11 @@ One of my great joys, is getting people outside in nature. In collaboration with
 8th January 2022 - Sydney, Bugs that bite
 
 
-3 November 2021 - Sydney, Parasitoid wasps
+3rd November 2021 - Sydney, Parasitoid wasps
 
-9 September - Sydney, stingless bees and honey, NSW Statewide broadcast
+9th September - Sydney, stingless bees and honey, NSW Statewide broadcast
 
-23 August 2021 - Sydney, Insects to visit in Lockdown. NSW Statewide broadcast
+23rd August 2021 - Sydney, Insects to visit in Lockdown. NSW Statewide broadcast
 
 
 2021 - Sydney, Olympians versus invertebrates. NSW Statewide broadcast
