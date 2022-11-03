@@ -70,7 +70,7 @@ One of my great joys, is getting people outside in nature. In collaboration with
 **ABC Radio interviews**
 
 
-3rd November 2022 - Adelaid, Ask an expert - Why are ants out before it rains
+3rd November 2022 - Adelaide, Ask an expert - Why are ants out before it rains
 
 18th October 2022 - Sydney, Termites, Cockroaches and floods
 
