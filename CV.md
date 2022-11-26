@@ -30,6 +30,15 @@ Supervisors: Tanya Latty and Dieter Hochuli
 **BSc (Zoology)**, majoring in Conservation Biology, Western Sydney University, Completed 2015
 
 
+**Employment**
+
+October 2022: Project Manager, Invertebrates Australia
+
+
+July 2022: Research Assistant, The University of Sydney - Conducting Artificial Flower research
+
+July 2022 - November 2022: Research Assistant, The University of Sydney - Coordination and administration of the Nearby Nature walkshop with headspace Bankstown
+
 
 ![](/assets/img/ESA2019.jpg)
 _Presenting at the Ecological Society of Australia Conference in 2019_
