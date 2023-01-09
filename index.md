@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Caitlyn Forster
-subtitle: PhD Candidate, The University of Sydney
+subtitle: PhD, The University of Sydney
 ---
 ![](/assets/img/beetle.jpg)
-<p align="center"> I am a PhD candidate at the University of Sydney. My research focus is on combining work from behavioural economics and behavioural ecology to understand how insects pick flowers. I am also interested in using 3D printing and tabletop craft machines to make effective and reproducible experimental design. I like to use my skills in Science communication to encourage backyard science experiments that help students understand their local ecosystems.
-
+<p align="center"> I am an Associate Lecturer at the University of Sydney. Currently, I am researching how we can use  behavioural economics to understand how insects pick flowers. I am also interested in how we can use citizen science to get people outside enjoying nature. I like to use my skills in Science communication to show people affordable backyard science experiments that help us understand our local ecosystems.
+Most of my focus has been on ant and bee behaviour, but I like to pretend my PhD was actually in craft, as I have spent a lot of my time using 3D printing and tabletop craft machines to make effective and reproducible experimental design. 
 
   
   
