@@ -32,8 +32,10 @@ Supervisors: Tanya Latty and Dieter Hochuli
 
 **Employment**
 
-October 2022: Project Manager, Invertebrates Australia
 
+January 2023: Associate lecturer, The University of Sydney
+
+October 2022: Project Manager, Invertebrates Australia
 
 July 2022: Research Assistant, The University of Sydney - Conducting Artificial Flower research
 
