@@ -9,6 +9,10 @@ I really enjoy writing about Ecology and entomology, and frequently written for 
 **Nearby Nature**
 One of my great joys, is getting people outside in nature. In collaboration with The Urban Field Naturalist and headspace Bankstown, we create walkshops to encourage people to get outside and do some citizen science
 
+
+[<img src="{{ 'assets/img/superstarsofstem.jpg' | relative_url }}"/>](https://scienceandtechnologyaustralia.org.au/profile/caitlyn-forster/)
+
+
 <h4 id="the-conversation">
 The Conversation
 </h4>
@@ -131,4 +135,6 @@ Radio interviews
 
 2022 Parramatta Council - Bee Beahviour (Approx 20 people)
 
+**Public talks**
+[<img src="{{ 'assets/img/futurescienctalks.png' | relative_url }}"/>](https://www.eventbrite.com.au/e/future-science-talks-sydney-tickets-416449500667)
 
