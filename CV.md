@@ -63,6 +63,8 @@ __2021__ Australasian Society for the Study of Animal Behaviour student grant **
 
 __2022__ Inspiring Australia Science Week Grants **$4800**
 
+__2023__ Ecological Society of Australia student award, best speed talk **$500**
+
 
 ![](/assets/img/ESA2020.jpg)
 _2020 has turned conferences into a virtual affair, here is me watching me present a talk at The Ecological Society of Australia Conference_
@@ -98,6 +100,12 @@ _The impact of Phantom Decoys on bumblebee foraging behaviour_ Presentation, **R
 __2020__ Ecological Society of Auystralia Conference, Virtual 
 _The impact of Phantom Decoys on honeybee foraging behaviour_ Poster
 ![](/assets/img/esa2021poster.png)
+
+__2021__ Ecological Society of Auystralia Conference, Virtual 
+_The impact of Phantom Decoys on honeybee foraging behaviour_ Talk
+
+__2022__ Ecological Society of Auystralia Conference, Darwin, Australia
+_The Great Australian Bake-Off: Identifying trends and opportunities in the Threatened Species Bake Off_ **Winner, Best Speed talk**
 
 **Society Affiliations**
 
