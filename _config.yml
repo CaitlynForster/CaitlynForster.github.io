@@ -14,7 +14,7 @@ author: Caitlyn Forster
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  #Publications: "publications"
+  Publications: "publications"
   CV: "CV"
   Media: media
   Teaching: teaching
