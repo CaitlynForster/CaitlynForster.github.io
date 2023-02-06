@@ -18,31 +18,41 @@ The Conversation
 </h4>
 
 
-[<img src="{{ 'assets/img/naturedetectives.png' | relative_url }}"/>](https://theconversation.com/nature-detectives-in-the-backyard-3-science-activities-for-curious-kids-this-summer-151661)
+[<img src="{{ 'assets/img/bakeoff.png' | relative_url }}"/>](https://theconversation.com/enough-with-the-koala-cakes-the-governments-annual-threatened-species-bake-off-seriously-neglects-fish-plants-and-other-lesser-loved-species-197028)
 
+[<img src="{{ 'assets/img/turkeys.png' | relative_url }}"/>](https://theconversation.com/theyre-doing-their-best-how-these-3-neighbourhood-pests-deal-with-rainy-days-193026)
 
-[<img src="{{ 'assets/img/beeswarms.png' | relative_url }}"/>](https://theconversation.com/its-bee-season-to-avoid-getting-stung-just-stay-calm-and-dont-swat-153625)
-
-
-[<img src="{{ 'assets/img/floods.png' | relative_url }}"/>](https://theconversation.com/after-the-floods-stand-by-for-spiders-slugs-and-millipedes-but-think-twice-before-reaching-for-the-bug-spray-157600)
-
-
-[<img src="{{ 'assets/img/comics.png' | relative_url }}"/>](https://theconversation.com/heroes-villains-biology-3-reasons-comic-books-are-great-science-teachers-143251)
-
-
-
-[<img src="{{ 'assets/img/tiktok.png' | relative_url }}"/>](https://theconversation.com/over-the-top-backlash-against-tiktoks-bee-lady-not-justified-say-bee-experts-162346)
+[<img src="{{ 'assets/img/coin.png' | relative_url }}"/>](https://theconversation.com/a-new-2-coin-features-the-introduced-honeybee-is-this-really-the-species-we-should-celebrate-181089)
 
 
 [<img src="{{ 'assets/img/olympics.png' | relative_url }}"/>](https://theconversation.com/how-do-olympic-athletes-stack-up-against-invertebrates-not-very-well-164488)
 
-[<img src="{{ 'assets/img/coin.png' | relative_url }}"/>](https://theconversation.com/a-new-2-coin-features-the-introduced-honeybee-is-this-really-the-species-we-should-celebrate-181089)
+[<img src="{{ 'assets/img/tiktok.png' | relative_url }}"/>](https://theconversation.com/over-the-top-backlash-against-tiktoks-bee-lady-not-justified-say-bee-experts-162346)
+
+[<img src="{{ 'assets/img/comics.png' | relative_url }}"/>](https://theconversation.com/heroes-villains-biology-3-reasons-comic-books-are-great-science-teachers-143251)
+
+[<img src="{{ 'assets/img/floods.png' | relative_url }}"/>](https://theconversation.com/after-the-floods-stand-by-for-spiders-slugs-and-millipedes-but-think-twice-before-reaching-for-the-bug-spray-157600)
+
+[<img src="{{ 'assets/img/beeswarms.png' | relative_url }}"/>](https://theconversation.com/its-bee-season-to-avoid-getting-stung-just-stay-calm-and-dont-swat-153625)
+
+
+[<img src="{{ 'assets/img/naturedetectives.png' | relative_url }}"/>](https://theconversation.com/nature-detectives-in-the-backyard-3-science-activities-for-curious-kids-this-summer-151661)
+
+
+
+
+
+
+
+
+
 
 
 <h4 id="scan-magazine">
 Scan Magazine, Department Education NSW
 </h4>
 
+[<img src="{{ 'assets/img/classroomsashabitats.png' | relative_url }}"/>](https://issuu.com/scannswdoe/docs/scan_41_7_term4_2022_issuu)
 
 
 [<img src="{{ 'assets/img/science_extension.png' | relative_url }}"/>](https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/professional-learning/scan/media/documents/vol-40/Scan_40-9_Oct2021_AEM.pdf)
@@ -77,7 +87,7 @@ Radio interviews
 
 7th February 2023 - Sydney, Overnights, Threatened Species Bake Off
 
-3rd November 2022 - Adelaide, Ask an expert - Why are ants out before it rains
+3rd November 2022 - Adelaide, Afternoons, Ask an expert - Why are ants out before it rains
 
 18th October 2022 - Sydney, Termites, Cockroaches and floods
 
@@ -132,9 +142,10 @@ Radio interviews
 
 **Council talks**
 
+2022 Parramatta Council - Bee Beahviour (Approx 20 people)
+
 2019 Turramurra Community Garden - Bees in your garden (Approx 20 people)
 
-2022 Parramatta Council - Bee Beahviour (Approx 20 people)
 
 **Public talks**
 [<img src="{{ 'assets/img/futurescienctalks.png' | relative_url }}"/>](https://www.eventbrite.com.au/e/future-science-talks-sydney-tickets-416449500667)
