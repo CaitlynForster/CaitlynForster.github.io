@@ -152,3 +152,7 @@ Radio interviews
 **Public talks**
 [<img src="{{ 'assets/img/futurescienctalks.png' | relative_url }}"/>](https://www.eventbrite.com.au/e/future-science-talks-sydney-tickets-416449500667)
 
+**School Visits**
+2020 Baulkham Hills North Public School, Pollinator talk, 100 students, years 5-6
+2023 Hurlstone Park Agriculutural School, International Women's Day talk, 300 students, years 7-9
+
