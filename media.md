@@ -151,6 +151,7 @@ Radio interviews
 
 **Public talks**
 [<img src="{{ 'assets/img/futurescienctalks.png' | relative_url }}"/>](https://www.eventbrite.com.au/e/future-science-talks-sydney-tickets-416449500667)
+2023 Royal Botanic Gardens - pollinator talk to 10 6 year olds
 
 **School Visits**
 2020 Baulkham Hills North Public School, Pollinator talk, 100 students, years 5-6
