@@ -128,6 +128,10 @@ Radio interviews
 
 2020 - Central West, Backyard Science activities
 
+**NZ Radio interviews**
+
+24th May 2023 - Bee brains
+
 
 **2SER Radio interviews**
 
