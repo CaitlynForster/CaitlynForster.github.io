@@ -7,6 +7,7 @@ I really enjoy writing about Ecology and entomology, and frequently written for 
 
 
 **Nearby Nature**
+<img src="{{ 'assets/img/nearbynature.png' | relative_url }}"/>
 One of my great joys, is getting people outside in nature. In collaboration with The Urban Field Naturalist and headspace Bankstown, we create walkshops to encourage people to get outside and do some citizen science
 
 
