@@ -4,7 +4,7 @@ title: CV
 ---
 **Current Education**
 
-**PhD**, The University of Sydney. Expected completion: 2022.
+**PhD**, The University of Sydney. Conferred May 2022.
 
 
 Thesis title: _Understanding consumer beehaviour: impacts of the Phantom Decoy Effect on Bee foraging choice_
