@@ -18,4 +18,4 @@ Artificial flowers designed for behavioural experiments with _Tetragonula carbon
 <img src="{{ 'assets/img/disc.png' | relative_url }}"/>
 
 
-artificial feeders aimed at testing the impacts of structural complexity on ants. central hole to place petri dish of bait
+Artificial feeders aimed at testing the impacts of structural complexity on ants. central hole to place petri dish containing bait in the centre.
