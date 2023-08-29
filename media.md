@@ -3,7 +3,7 @@ layout: page
 title: Media and Outreach
 ---
 
-I really enjoy writing about Ecology and entomology, and frequently written for The Department of Educations' [Scan Magazine](#scan-magazine), [The Conversation](#the-conversation) and have been involved in [educational videos](#video), [radio interviews](#radio) and podcast recordings. I have over 100 000 reads on articles written in the Conversation, and have written a mixture of pitched and commissioned articles on a range of topics from bee swarms to TikTok and the Olympics to Floods.
+I really enjoy writing about Ecology and entomology, and frequently write for The Department of Educations' [Scan Magazine](#scan-magazine), [The Conversation](#the-conversation) and have been involved in [educational videos](#video), [radio interviews](#radio) and podcast recordings. I have over 100 000 reads on articles written in the Conversation, and have written a mixture of pitched and commissioned articles on a range of topics from bee swarms to TikTok and the Olympics to Floods.
 
 
 **Nearby Nature**
