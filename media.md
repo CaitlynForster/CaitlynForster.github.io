@@ -90,7 +90,7 @@ Radio interviews
 
 **ABC Radio interviews**
 
-[1st September 2023 - Sydney, Mornings, Magnificant spiders](http://www.youtube.com/watch?v=S2c46jusF-w)
+[1st September 2023 - Sydney, Mornings, Magnificant spiders](https://www.abc.net.au/listen/programs/sydney-breakfast/sutherland-spiders/102802762))
 
 
 28th July 2023 - Sydney, Mornings, Mailing insects
