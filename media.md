@@ -170,6 +170,9 @@ Radio interviews
 
 
 **Public talks**
+
+2023 - Animal Behaviour Live: Impacts of Phantom decoys on bees
+
 [<img src="{{ 'assets/img/futurescienctalks.png' | relative_url }}"/>](https://www.eventbrite.com.au/e/future-science-talks-sydney-tickets-416449500667)
 2023 Royal Botanic Gardens - pollinator talk to 10 6 year olds
 
