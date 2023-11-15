@@ -90,7 +90,15 @@ Radio interviews
 
 **ABC Radio interviews**
 
+
+16th November 2023 - Sydney, Mornings, butterfly plagues
+
+31st October 2023 - Nationwide, Overnights, Spooky Insects
+
+
 [1st September 2023 - Sydney, Mornings, Magnificant spiders](https://www.abc.net.au/listen/programs/sydney-breakfast/sutherland-spiders/102802762)
+
+
 
 
 28th July 2023 - Sydney, Mornings, Mailing insects
