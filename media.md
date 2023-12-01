@@ -185,6 +185,13 @@ Radio interviews
 2023 Royal Botanic Gardens - pollinator talk to 10 6 year olds
 
 **School Visits**
+
 2020 Baulkham Hills North Public School, Pollinator talk, 100 students, years 5-6
+
 2023 Hurlstone Park Agriculutural School, International Women's Day talk, 300 students, years 7-9
 
+2023 Masada College: Speed mentoring in STEM, 20 students
+
+2023 Google Career day
+
+2023 Shoalhaven High School, Unearthing Science, 5 students
