@@ -90,6 +90,9 @@ Radio interviews
 
 **ABC Radio interviews**
 
+14th February 2024 - Nationatide, Overnights, Why are bees dying?
+
+27th December 2023 - Nationwide, Overnights, Christmas Beetles
 
 16th November 2023 - Sydney, Mornings, butterfly plagues
 
