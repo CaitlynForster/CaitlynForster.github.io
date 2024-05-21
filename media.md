@@ -17,6 +17,9 @@ One of my great joys, is getting people outside in nature. In collaboration with
 
 [<img src="{{ 'assets/img/superstarsofstem.jpg' | relative_url }}"/>](https://scienceandtechnologyaustralia.org.au/profile/caitlyn-forster/)
 
+**Caitlyn In the News**
+[![World Bee Day]](https://www.abc.net.au/news/2024-05-20/world-bee-day-five-quick-facts/103868396)
+
 
 <h4 id="the-conversation">
 The Conversation
@@ -89,6 +92,10 @@ Radio interviews
 
 
 **ABC Radio interviews**
+
+21st May 2024 - Nationwide, Overnights, Nocturnal Insects
+
+26th April 2024 - Nationwide, Overnights, Insect movement
 
 14th February 2024 - Nationatide, Overnights, Why are bees dying?
 
