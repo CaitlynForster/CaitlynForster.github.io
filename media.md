@@ -18,6 +18,11 @@ One of my great joys, is getting people outside in nature. In collaboration with
 [<img src="{{ 'assets/img/superstarsofstem.jpg' | relative_url }}"/>](https://scienceandtechnologyaustralia.org.au/profile/caitlyn-forster/)
 
 **Caitlyn In the News**
+
+[Moth swarms?!](https://au.news.yahoo.com/aussie-womans-horror-as-huge-swarm-of-moths-invades-hotel-room-043921339.html)
+
+[Magnificent Spiders](https://www.abc.net.au/listen/programs/sydney-breakfast/sutherland-spiders/102802762)
+
 [World Bee Day](https://www.abc.net.au/news/2024-05-20/world-bee-day-five-quick-facts/103868396)
 
 
