@@ -93,6 +93,10 @@ Radio interviews
 
 **ABC Radio interviews**
 
+11th September 2024 - South East NSW, Mornings, Dragonflies
+
+10th September 2024 - Sydney, Afternoons, Dragonflies
+
 21st May 2024 - Nationwide, Overnights, Nocturnal Insects
 
 26th April 2024 - Nationwide, Overnights, Insect movement
@@ -188,6 +192,8 @@ Radio interviews
 
 
 **Public talks**
+
+2024 - Probus Mount Colah, 30 people
 
 2023 - Animal Behaviour Live: Impacts of Phantom decoys on bees
 
